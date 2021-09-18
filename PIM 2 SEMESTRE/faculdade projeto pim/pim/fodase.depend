@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604792230 source:c:\users\vinicios\desktop\faculdade projeto pim\fodase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+

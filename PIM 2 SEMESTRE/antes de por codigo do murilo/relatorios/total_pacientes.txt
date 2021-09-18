@@ -1,0 +1,13 @@
+
+ Consultas registradas no sistema: .
+ 
+ Consultas registradas no sistema: ..
+ 
+ Consultas registradas no sistema: 1.txt
+ 
+ Consultas registradas no sistema: 213.txt
+ 
+ Consultas registradas no sistema: 5.txt
+ 
+ Consultas registradas no sistema: sapo.txt
+ 

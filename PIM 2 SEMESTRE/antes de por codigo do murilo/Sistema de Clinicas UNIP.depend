@@ -1,0 +1,682 @@
+# depslib dependency file v1.0
+1604955296 source:c:\users\vinicios\desktop\sistema de clinicas\sistema de clinicas unip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+
+1604956480 source:c:\users\vinicios\desktop\sistema de clinicas\sistema de clinicas unip\agendconsulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+
+1604955241 source:c:\users\vinicios\desktop\sistema de clinicas\sistema de clinicas unip\cadfuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+
+1604954935 source:c:\users\vinicios\desktop\sistema de clinicas\sistema de clinicas unip\cadmedico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+
+1604953813 source:c:\users\vinicios\desktop\sistema de clinicas\sistema de clinicas unip\cadpacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+
+1604953974 source:c:\users\vinicios\desktop\sistema de clinicas\sistema de clinicas unip\feedback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+
+1606165648 source:c:\users\vinicios\desktop\sistema de clinicas unip\cadfuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\cadmedico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\cadpacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165728 source:c:\users\vinicios\desktop\sistema de clinicas unip\feedback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1605924531 source:c:\users\vinicios\desktop\sistema de clinicas unip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165486 source:c:\users\vinicios\desktop\sistema de clinicas unip\agendconsulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605171861 source:c:\users\vinicios\desktop\sistema de clinicas unip\idcontador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165225 source:c:\users\vinicios\desktop\sistema de clinicas unip\contadorconsulta.c
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165225 source:c:\users\vinicios\desktop\sistema de clinicas unip\contadormedico.c
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165225 source:c:\users\vinicios\desktop\sistema de clinicas unip\contadorfunc.c
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605924414 source:c:\users\vinicios\desktop\sistema de clinicas unip\vermedicos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606123203 source:c:\users\vinicios\desktop\sistema de clinicas unip\verpacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<dirent.h>
+
+1605924888 source:c:\users\vinicios\desktop\sistema de clinicas unip\cancelarconsulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606122916 source:c:\users\vinicios\desktop\sistema de clinicas unip\verconsultas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\menuorquit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1605158436 source:c:\users\vinicios\desktop\sistema de clinicas unip\contadorpaciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605641874 source:c:\users\pc\desktop\sistema de clinicas unip\agendconsulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605140738 source:c:\users\pc\desktop\sistema de clinicas unip\cadfuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605135860 source:c:\users\pc\desktop\sistema de clinicas unip\cadmedico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605556747 source:c:\users\pc\desktop\sistema de clinicas unip\cadpacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605645109 source:c:\users\pc\desktop\sistema de clinicas unip\cancelarconsulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605641073 source:c:\users\pc\desktop\sistema de clinicas unip\contadorconsulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605641073 source:c:\users\pc\desktop\sistema de clinicas unip\contadorfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605641073 source:c:\users\pc\desktop\sistema de clinicas unip\contadormedico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605140436 source:c:\users\pc\desktop\sistema de clinicas unip\contadorpaciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605644869 source:c:\users\pc\desktop\sistema de clinicas unip\feedback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605643518 source:c:\users\pc\desktop\sistema de clinicas unip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605137094 source:c:\users\pc\desktop\sistema de clinicas unip\menuorquit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605140370 source:c:\users\pc\desktop\sistema de clinicas unip\verconsultas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605140380 source:c:\users\pc\desktop\sistema de clinicas unip\vermedicos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605645327 source:c:\users\pc\desktop\sistema de clinicas unip\verpacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<dirent.h>
+
+1605644390 source:c:\users\pc\desktop\sistema de clinicas unip\vertotal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1605377346 source:c:\users\pc\desktop\sistema de clinicas unip\vertotal.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1605385914 source:c:\users\pc\desktop\sistema de clinicas unip\contabilidade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605641755 source:c:\users\pc\desktop\sistema de clinicas unip\contabilidadesul.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605641754 source:c:\users\pc\desktop\sistema de clinicas unip\contabilidadeleste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605641754 source:c:\users\pc\desktop\sistema de clinicas unip\contabilidadeoeste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605641686 source:c:\users\pc\desktop\sistema de clinicas unip\pacientessul.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605556856 source:c:\users\pc\desktop\sistema de clinicas unip\pacientesleste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605556856 source:c:\users\pc\desktop\sistema de clinicas unip\pacientesoeste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605640279 source:c:\users\pc\desktop\sistema de clinicas unip\verunidade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1605644390 source:c:\users\pc\desktop\sistema de clinicas unip\vertotalrede.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\contabilidadeleste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\contabilidadeoeste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606122445 source:c:\users\vinicios\desktop\sistema de clinicas unip\contabilidadesul.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\pacientesleste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\pacientesoeste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\pacientessul.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1605626390 source:c:\users\vinicios\desktop\sistema de clinicas unip\vertotal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\vertotalrede.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606166061 source:c:\users\vinicios\desktop\sistema de clinicas unip\verunidade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165914 source:c:\users\vinicios\desktop\sistema de clinicas unip\testararquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165419 source:c:\users\vinicios\desktop\backup trabalho faculdade\agendconsulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165225 source:c:\users\vinicios\desktop\backup trabalho faculdade\cadmedico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605538746 source:c:\users\vinicios\desktop\backup trabalho faculdade\cadpacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1605924888 source:c:\users\vinicios\desktop\backup trabalho faculdade\cancelarconsulta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606122287 source:c:\users\vinicios\desktop\backup trabalho faculdade\contabilidadeleste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606122445 source:c:\users\vinicios\desktop\backup trabalho faculdade\contabilidadeoeste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606122445 source:c:\users\vinicios\desktop\backup trabalho faculdade\contabilidadesul.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165225 source:c:\users\vinicios\desktop\backup trabalho faculdade\contadorconsulta.c
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165225 source:c:\users\vinicios\desktop\backup trabalho faculdade\contadorfunc.c
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606165225 source:c:\users\vinicios\desktop\backup trabalho faculdade\contadormedico.c
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606123392 source:c:\users\vinicios\desktop\backup trabalho faculdade\feedback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1605924531 source:c:\users\vinicios\desktop\backup trabalho faculdade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1605119094 source:c:\users\vinicios\desktop\backup trabalho faculdade\menuorquit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606123260 source:c:\users\vinicios\desktop\backup trabalho faculdade\pacientesleste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606123260 source:c:\users\vinicios\desktop\backup trabalho faculdade\pacientesoeste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606123260 source:c:\users\vinicios\desktop\backup trabalho faculdade\pacientessul.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606164728 source:c:\users\vinicios\desktop\backup trabalho faculdade\testararquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1606122916 source:c:\users\vinicios\desktop\backup trabalho faculdade\verconsultas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1605924414 source:c:\users\vinicios\desktop\backup trabalho faculdade\vermedicos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606123203 source:c:\users\vinicios\desktop\backup trabalho faculdade\verpacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<dirent.h>
+
+1605626390 source:c:\users\vinicios\desktop\backup trabalho faculdade\vertotal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1605923837 source:c:\users\vinicios\desktop\backup trabalho faculdade\vertotalrede.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+
+1605622278 source:c:\users\vinicios\desktop\backup trabalho faculdade\verunidade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<dirent.h>
+
+1606165225 source:c:\users\vinicios\desktop\backup trabalho faculdade\cadfuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+

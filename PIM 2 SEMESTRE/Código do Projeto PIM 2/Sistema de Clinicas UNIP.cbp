@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Sistema de Clinicas UNIP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Sistema de Clinicas UNIP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Sistema de Clinicas UNIP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="agendconsulta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadfuncionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadmedico.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadpacientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cancelarconsulta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contabilidadeleste.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contabilidadeoeste.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contabilidadesul.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contadorconsulta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contadorfunc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contadormedico.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="feedback.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menuorquit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pacientesleste.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pacientesoeste.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pacientessul.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="testararquivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verconsultas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vermedicos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verpacientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vertotal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vertotalrede.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verunidade.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

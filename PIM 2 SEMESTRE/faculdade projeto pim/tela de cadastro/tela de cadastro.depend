@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603117589 source:c:\users\vinicios\desktop\faculdade projeto pim\tela de cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+

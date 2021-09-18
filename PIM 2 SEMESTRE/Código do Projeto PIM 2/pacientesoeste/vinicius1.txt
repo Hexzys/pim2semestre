@@ -1,0 +1,9 @@
+Nome:vinicius
+Sobrenome:gamas
+Sexo:m
+Dia:23
+Mes:01
+Ano:2000
+Telefone:12130
+Estado:sp
+Cidade:sp

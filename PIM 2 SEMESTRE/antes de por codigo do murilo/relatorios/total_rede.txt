@@ -1,0 +1,11 @@
+
+Total faturado diário da unidade Sul é: 0
+Total faturado diário da unidade leste é: 0
+Total faturado diário da unidade oeste é: 0
+Total faturado DIÁRIO das 3 unidades: 0
+
+Total faturado mensal da unidade Sul é: 0
+Total faturado mensal da unidade leste é: 0
+Total faturado mensal da unidade oeste é: 0
+
+Total faturado MENSAL das 3 unidades: 0
